@@ -1,4 +1,4 @@
-package com.coderscampus.assignment8;
+package com.coderscampus.assignment;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -58,3 +58,4 @@ public class Assignment8 {
         return newList;
     }
 
+}
