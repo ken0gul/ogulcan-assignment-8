@@ -36,6 +36,8 @@ public class Main {
 
 		// Print the expected output using a different single thread
 		data.printResult(service2, newList);
+		
+		service.shutdown();
 
 	};
 
